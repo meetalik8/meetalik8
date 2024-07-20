@@ -3,4 +3,4 @@
 -   👩🏾‍💻 **Information Technology Student** at **University of Mumbai**
 -   🌱 **Learning Web Development and Data Analysis!**
 -   📫 **How to reach me: [LinkedIn](https://www.linkedin.com/in/meetalikapse/) or [Twitter](https://twitter.com/meetsshutup)**
--   ⭐ **[Portfolio](http://meetalikapse.xyz/)!**
+-   ⭐ **[Portfolio](http://meetalikapse.me/)!**
